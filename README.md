@@ -1,5 +1,4 @@
 # About
 
-This is SkyChen's project work for deep learning nano degree at udacity. 
+This is SkyChen's project work for [deep learning nano degree](https://cn.udacity.com/course/deep-learning-nanodegree-foundation--nd101/) at udacity. 
 
-You can find more info about this course here: 
